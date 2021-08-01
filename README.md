@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+####I'm a Front-end Developer and IT specialist living in Cracow, Poland.
+
+##### INFO
+- :books: StuDYING at AGH (Informatics and Econometrics)
+- :chart_with_upwards_trend: Interested in cryptocurrencies
+- ⚙️: Learning ReactJS
+- :computer: Website: mkudlacz.pl
 <!--
 **mariuszx8/mariuszx8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
