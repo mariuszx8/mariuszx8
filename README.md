@@ -4,9 +4,8 @@
 
 ##### INFO
 - :books: StuDYING at AGH (Informatics and Econometrics)
-- :chart_with_upwards_trend: Interested in cryptocurrencies
 - ⚙️: Frameworks: React, Node, Angular, Vue
-- :computer: Website: [mkudlacz.pl](https://mkudlacz.pl/)
+
 <!--
 **mariuszx8/mariuszx8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
