@@ -4,7 +4,7 @@
 
 ##### INFO
 - :books: StuDYING at AGH (Informatics and Econometrics)
-- ⚙️: Frameworks: React, Node, Angular, Vue
+- ⚙️: Frameworks: React, Next, Express, Nest, Angular
 
 <!--
 **mariuszx8/mariuszx8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
