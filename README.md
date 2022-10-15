@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Front-end Developer and IT specialist living in Cracow, Poland.
+#### I'm a Full stack Developer living in Cracow, Poland.
 
 ##### INFO
 - :books: StuDYING at AGH (Informatics and Econometrics)
